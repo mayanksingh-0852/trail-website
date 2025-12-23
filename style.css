@@ -144,6 +144,24 @@
   font-weight: 600;
 }
 
+.arrivals-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+/* Left Grid */
+.arrivals-grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 20px;
+}
+
+.arrivals-grid a {
+  text-decoration: none;
+  color: black;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
   .category-wrapper {
