@@ -33,7 +33,7 @@ It is designed to improve frontend development skills and understand how online 
 
 ## 📸 Preview
 
-👉 Live Demo: *(Add your Netlify link here)*  
+👉 Live Demo: https://ezlia.netlify.app/
 
 ---
 
